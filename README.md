@@ -40,7 +40,10 @@ Data is saved in bayt_jobs.json with the following fields:
 - Description
 - Skills
 - Job_URL
+## Screenshots
 
+### Scraper Running
+![Console Output](screenshots/console_run.png)
 ## Notes
 - Use reasonable delays to avoid being blocked.
 - This project is for educational purposes only.
